@@ -68,6 +68,7 @@ Note: Order is important in the Dockerfile
         1. docker compose up -d
         1. docker compose down
 
+
 */
 
 console.log('Docker file');
